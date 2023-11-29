@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 
-/*
+/**
  * binary_tree_postorder - post-order traversal
  * @tree: node address
  * @func: function address
